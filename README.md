@@ -1,12 +1,12 @@
-### Hello there! I'm Natalia 👋
+## Hello there! I'm Natalia 👋
 
-I'm second-year student of Computer Science at University of Gdańsk. My biggest interests are front-end and web applications development.
+I'm a second-year student of Computer Science at the University of Gdańsk. My primary interests are front-end development and building web applications.
 
-In free time I like drawing, drinking coffee and petting cats :smile_cat:
+During my free time I enjoy drawing, drinking coffee and petting cats :smile_cat:
 
-:file_folder: I’m currently working on something big!
+:telescope: I’m currently working on something big!
 
-:rocket: I’m currently learning **React**, **Figma** and building **RESTful API**
+:rocket: Right now, I'm learning **React**, **Figma** and building **RESTful API**
 
 #### Languages and tools:
 [![Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,scala,bash,react,nextjs,sass,nodejs,express,flask,figma,mongodb,mysql,git,docker&perline=7)](https://skillicons.dev)
