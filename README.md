@@ -4,9 +4,9 @@ I'm a second-year student of Computer Science at the University of Gdańsk. My p
 
 During my free time I enjoy drawing, drinking coffee and petting cats :smile_cat:
 
-:telescope: I’m currently working on something big!
+:rocket: I'm currently learning **Java** and **Go**.
 
-:rocket: Right now, I'm learning **React**, **Figma** and building **RESTful API**
+[//]: <:telescope: I plan to work on **Period Tracker**>
 
 #### Languages and tools:
 [![Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,scala,bash,react,nextjs,sass,nodejs,express,flask,figma,mongodb,mysql,git,docker&perline=7)](https://skillicons.dev)
