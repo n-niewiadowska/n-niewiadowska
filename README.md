@@ -1,6 +1,6 @@
 ## Hello there! I'm Natalia 👋
 
-I'm a second-year student of Computer Science at the University of Gdańsk. My primary interests are front-end development and building web applications.
+I'm a second-year student of Computer Science at the University of Gdańsk. My primary interest is web development.
 
 During my free time I enjoy drawing, drinking coffee and petting cats :smile_cat:
 
