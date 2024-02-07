@@ -16,4 +16,4 @@ If you're interested in my other projects, check out my GitLab profile [@n-niewi
 
 #### Reach me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-niewiadowska-266304290/) [Gmail](mailto:natalia.niewiadowska.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-niewiadowska-266304290/)
