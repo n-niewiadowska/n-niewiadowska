@@ -8,7 +8,7 @@ During my free time I enjoy drawing, drinking coffee and petting cats :smile_cat
 
 :telescope: I'm working on **TaskMaster**!
 
-If you're interested in my other projects, check out my GitLab profile [@n-niewiadowska](https://gitlab.com/n-niewiadowska)! It mostly contains beginner's projects.
+If you're interested in my other, more beginner-level projects, check out my GitLab profile **[@n-niewiadowska](https://gitlab.com/n-niewiadowska)**!
 
 #### Languages and tools:
 
@@ -16,4 +16,4 @@ If you're interested in my other projects, check out my GitLab profile [@n-niewi
 
 #### Reach me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-niewiadowska-266304290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-niewiadowska/)
