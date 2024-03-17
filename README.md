@@ -4,7 +4,7 @@ I'm a second-year student of Computer Science at the University of Gdańsk and a
 
 During my free time I enjoy drawing, drinking coffee and petting cats :smile_cat:
 
-:rocket: I'm currently learning **Java** and **Go**.
+:rocket: I'm currently learning **Java** and **machine learning**.
 
 :telescope: I'm working on **TaskMaster**!
 
