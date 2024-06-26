@@ -1,12 +1,10 @@
 ## Hello there! I'm Natalia 👋
 
-I'm a second-year student of Computer Science at the University of Gdańsk and a member of Work In Progress scientific club. My primary interest is web development, but I like the challenges other fields have as well.
+I'm a third year student of Computer Science at the University of Gdańsk, member of Work In Progress scientific club and SDE intern at Amazon. My primary interests are web development and machine learning, but I am open to other fields and challenges.
 
 During my free time I enjoy drawing, drinking coffee and petting cats :smile_cat:
 
-:rocket: I'm currently learning **Java** and **machine learning**.
-
-:telescope: I'm working on **TaskMaster**!
+:rocket: I'm currently learning **Java**.
 
 If you're interested in my other, more beginner-level projects, check out my GitLab profile **[@n-niewiadowska](https://gitlab.com/n-niewiadowska)**!
 
