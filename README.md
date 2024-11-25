@@ -7,7 +7,7 @@
 
 <p align="center">My name is Natalia and I'm a third-year Computer Science student with a dash of professional experience as a Software Engineer. :computer: <i>"There's always a room for more knowledge"</i> is my personal motto - even if you know your stuff inside and out, there's always another layer to uncover! That's why it is my active quest to practice and expand my skillset.</p>
 
-<p align="center">I'm web and software developer, though my heart aspires to be a game creator. Recently, I became interested in 3D graphics. In my free time, I enjoy playing video games 🎮, travelling abroad ✈️ and petting cats :cat2:. To add some music to the mix, my dream is learning to play piano.</p>
+<p align="center">I'm web and software developer, though my heart aspires to be a game creator. Recently, I became interested in 3D graphics. In my free time, I enjoy playing video games 🎮, travelling ✈️ and petting cats :cat2:.</p>
 
 ### About work
 
@@ -21,7 +21,7 @@
 
 ### Tech stack
 
-- Specialized in:
+- Skills:
 
 [![Specialized in](https://skillicons.dev/icons?i=py,java,bash,js,ts,react,html,css,nodejs&perline=10)](https://skillicons.dev)
 
